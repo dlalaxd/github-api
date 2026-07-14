@@ -7,3 +7,8 @@ Airbnb: Leverages S3 event triggering to automatically process and analyze data 
 Expedia: Applies S3 event triggering to process travel bookings, user profiles, and pricing data in real time, powering personalized recommendations and intelligent search features.
 
 This pattern is highly scalable, cost-effective, and forms the backbone of many modern serverless architectures. Let me know if you'd like a cleaner version, more examples, or help improving the overall documentation!
+
+How to run:
+#export GITHUB_USERNAME="yourusername"
+#export GITHUB_TOKEN="ghp_yourpersonalaccesstoken"
+#./list_read_access.sh octocat Hello-World
