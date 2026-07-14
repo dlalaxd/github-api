@@ -6,7 +6,6 @@ Netflix: Uses S3 event triggering to automatically process video files uploaded 
 Airbnb: Leverages S3 event triggering to automatically process and analyze data stored in S3, including guest reviews, booking details, and user-generated content.
 Expedia: Applies S3 event triggering to process travel bookings, user profiles, and pricing data in real time, powering personalized recommendations and intelligent search features.
 
-This pattern is highly scalable, cost-effective, and forms the backbone of many modern serverless architectures. Let me know if you'd like a cleaner version, more examples, or help improving the overall documentation!
 
 How to run:
 
