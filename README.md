@@ -10,5 +10,7 @@ This pattern is highly scalable, cost-effective, and forms the backbone of many 
 
 How to run:
 #export GITHUB_USERNAME="yourusername"
+
 #export GITHUB_TOKEN="ghp_yourpersonalaccesstoken"
+
 #./list_read_access.sh octocat Hello-World
